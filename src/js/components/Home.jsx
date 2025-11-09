@@ -8,8 +8,7 @@ export function Home() {
 
 	return (
 		<div className="center-wrapper">
-			<div className="d-flex stick">jhu
-
+			<div className="d-flex stick">..................................
 			</div>
 			<div className="traffic-light ">
 				<div

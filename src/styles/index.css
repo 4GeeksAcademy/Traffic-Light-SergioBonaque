@@ -13,15 +13,9 @@
 .stick {
     background-color: black;
     rotate: 1 1 0 180deg;
-  
-content: '';
     position: absolute;
-    top: -20px;
-    left: 50%;
-
- 
-    
-  
+    top: 30px;
+    left: 44.8%;
 }
 .traffic-light {
     background: black;
